@@ -14,7 +14,15 @@
 - Verify sender email addresses carefully.
 - Report phishing emails to IT/security teams.
 
+  ## Skills Demonstrated
+- Email analysis and phishing detection  
+- Reading and interpreting email headers  
+- Identifying suspicious URLs and attachments  
+- Using SOC workflows to investigate security incidents  
+- Documenting findings clearly for reporting purposes
+
 ## Lessons Learned
 - Practical experience in recognizing phishing indicators.
 - Understanding the investigative steps SOC analysts follow.
+
 - Importance of documenting findings clearly for SOC workflow.
