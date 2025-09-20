@@ -18,7 +18,7 @@ End-to-end SOC pipeline project: log ingestion, detection rules, and investigati
 
 ## Quick Start
 1. Clone the repo
-2. cd soc-pipeline-yg
+2. cd soc-pipeline-yussuf
 3. Run Docker compose (if installed)
 4. Follow README in each folder for scripts/notebooks
 
