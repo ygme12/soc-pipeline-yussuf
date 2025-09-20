@@ -16,6 +16,15 @@
 - The email contained suspicious links pointing to unknown domains.
 - The message contained urgent language attempting to prompt immediate action.
 
+  ## Tools Used
+- *LetsDefend SOC Platform* – phishing email simulation and SOC workflow practice  
+- *VirusTotal* – scanning suspicious links and attachments  
+- *Email Client / Browser* – to inspect emails and headers  
+- *Endpoint Security / EDR Tool* – to simulate checking commands or suspicious activity on a host  
+- *Markdown Editor (VS Code / Notepad++)* – for documenting findings  
+- *URL / Link Scanners* – to check for phishing URLs
+
 ## Conclusion
 - This email is a phishing attempt.
+
 - Key learning: How to identify phishing indicators and understand SOC workflows for email threats.
